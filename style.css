@@ -1,6 +1,7 @@
 /* NAVBAR */
 .navbar {
-  height: 5rem;
+  height: 4rem;
+  padding: 0 2.1rem !important;
 }
 /* BANNER */
 .carousel {
@@ -18,6 +19,8 @@
 }
 .carousel-item button {
   margin-bottom: 4rem;
+  font-weight: 600;
+  font-size: 1.2rem;
 }
 /* MAIN */
 /* SERVICES */
@@ -37,7 +40,8 @@
 /* ABOUT US */
 .about-img {
   width: 100%;
-  height: 85%;
+  height: 95%;
+  max-width: 500px;
 }
 
 /* OUR TEAM */
@@ -56,19 +60,30 @@
 }
 /* PARTNERSHIP */
 .partner img {
-  width: 75%;
+  width: 150px;
+  min-width: 100px;
+  padding-bottom: 1rem;
+
 }
 .partner {
   padding: 3rem 8rem !important;
 }
-#contact {
+/* CONTACTUS */
+#contactUs {
   background-image: url(./img/map.jpeg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
-.btn{
+.btn {
   width: 9rem;
   height: 3rem;
-
+  border-radius: 10px;
+}
+@media screen and (max-width: 768px) {
+  .about-content {
+    display: flex;
+    flex-direction: column-reverse;
+    gap: 2rem;
+  }
 }
