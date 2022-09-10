@@ -33,3 +33,42 @@
   align-items: center;
   justify-content: center;
 }
+
+/* ABOUT US */
+.about-img {
+  width: 100%;
+  height: 85%;
+}
+
+/* OUR TEAM */
+.our-img {
+  border: 10px solid lightgray !important;
+}
+.fa-brands {
+  color: white;
+  background-color: rgb(37, 37, 37);
+  border: 1rem solid rgb(37, 37, 37);
+  width: 3rem;
+  border-radius: 50%;
+}
+.osman {
+  width: 69.5% !important;
+}
+/* PARTNERSHIP */
+.partner img {
+  width: 75%;
+}
+.partner {
+  padding: 3rem 8rem !important;
+}
+#contact {
+  background-image: url(./img/map.jpeg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.btn{
+  width: 9rem;
+  height: 3rem;
+
+}
