@@ -1,4 +1,4 @@
-## Check The Live Website ➡️ [Live Website](https://osmankoyuncuu.github.io/Project-Tech-Bootstrap/)
+## Check The Live Website ➡️ [Live Website](https://osmankoyuncuu.github.io/Project-Tech-Bootsrap/)
 
 ## Description
 
