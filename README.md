@@ -21,4 +21,4 @@ Project aims to create a Tech page.
 
 ## Overview
 
-I mastered HTML and Bootstarp features in this project. You can see the visual representation of the website above.
+I mastered HTML, Css and Bootstarp features in this project. You can see the visual representation of the website above.
